@@ -15,7 +15,7 @@ Welcome to the Flag Quiz Android application! Test your knowledge of world flags
 [<img src="/readme/Screenshot_20231202_144619.png" align="center"
 width="200"
     hspace="10" vspace="10">](/readme/Screenshot_20231202_144619.png)
-[<img src="/readme/Screenshot_20231202_144641" align="left"
+[<img src="/readme/Screenshot_20231202_144641.png" align="left"
 width="200"
     hspace="10" vspace="10">](/readme/Screenshot_20231202_144641.png)
 [<img src="/readme/Screenshot_20231202_144712.png" align="center"
